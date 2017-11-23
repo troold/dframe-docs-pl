@@ -1,0 +1,1 @@
+Bibliteka do tworzenia tokenów zabepiecza cię przed CSRF (Cross-Site Request Forgery) czyli nieautoryzowanym wykonaniem akcji.
